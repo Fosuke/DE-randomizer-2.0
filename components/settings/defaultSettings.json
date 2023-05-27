@@ -1,0 +1,649 @@
+ {
+    "villains": [
+        {
+            "name": "Akash'Bhuta",
+            "deck": "Akash'Bhuta",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Akash'Mecha",
+            "deck": "Akash'Bhuta",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Baron Blade",
+            "deck": "Baron Blade",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Mad Bomber Baron Blade",
+            "deck": "Baron Blade",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Citizen Dawn",
+            "deck": "Citizen Dawn",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Sunrise Citizen Dawn",
+            "deck": "Citizen Dawn",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Grand Warlord Voss",
+            "deck": "Grand Warlord Voss",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Censor",
+            "deck": "Grand Warlord Voss",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "The Matriarch",
+            "deck": "The Matriarch",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "The Mocktriarch",
+            "deck": "The Matriarch",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Omnitron",
+            "deck": "Omnitron",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Cosmic Omnitron",
+            "deck": "Omnitron",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Ambuscade",
+            "deck": "Ambuscade",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Vainglorious Ambuscade",
+            "deck": "Ambuscade",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Apex",
+            "deck": "Apex",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Blood-Leashed Apex",
+            "deck": "Apex",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "The Fey-Court",
+            "deck": "The Fey-Court",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "War-Girded Dagda & Morrigan",
+            "deck": "The Fey-Court",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "GloomWeaver",
+            "deck": "GloomWeaver",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Soultaker GloomWeaver",
+            "deck": "GloomWeaver",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Kismet",
+            "deck": "Kismet",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Empowered Kismet",
+            "deck": "Kismet",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "The Organization",
+            "deck": "The Organization",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "The Bear",
+            "deck": "The Organization",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Plague Rat",
+            "deck": "Plague Rat",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Doctor Toxica",
+            "deck": "Plague Rat",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Spite",
+            "deck": "Spite",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Abomination Spite",
+            "deck": "Spite",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Terrorform",
+            "deck": "Terrorform",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Terrorform Mark III",
+            "deck": "Terrorform",
+            "set": "Rook City Renegades",
+            "active": true
+        }
+    ],
+    "env": [
+        {
+            "name": "Freedom Tower",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Insula Primalis",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Magmaria",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Megalopolis",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "The Ruins of Atlantis",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Wagner Mars Base",
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Diamond Manor",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Pike Industrial Complex",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "The Realm of Discord",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Rook City",
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "The Temple of Zhu Long",
+            "set": "Rook City Renegades",
+            "active": true
+        }
+    ],
+    "heroes": [
+        {
+            "name": "Absolute Zero",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "The Argent Adept",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Bunker",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "Stealth Suit",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Captain Cosmic",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Fanatic",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "Haunted",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Haka",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "Werewolf",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Legacy",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Ra",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "Backdraft",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Tachyon",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Tempest",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Unity",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "Scavenger",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "The Wraith",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Core Game",
+                    "active": true
+                },
+                {
+                    "name": "Detective",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Alpha",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Reporter",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "2000",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Expatriette",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Dark Watch",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Eclipse",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "The Harpy",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Dark Watch",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Blood Raven",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Mr. Fixer",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Dark Watch",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Black Fist",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "NightMist",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Dark Watch",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Mentor",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Rook City Renegades",
+            "active": true
+        },
+        {
+            "name": "Setback",
+            "variants": [
+                {
+                    "name": "Base",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "First Appearance",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Dark Watch",
+                    "set": "Rook City Renegades",
+                    "active": true
+                },
+                {
+                    "name": "Fey-Cursed",
+                    "set": "Rook City Renegades",
+                    "active": true
+                }
+            ],
+            "set": "Rook City Renegades",
+            "active": true
+        }
+    ],
+    "sets": [
+        {
+            "name": "Core Game",
+            "active": true
+        },
+        {
+            "name": "Rook City Renegades",
+            "active": true
+        }
+    ]
+}
