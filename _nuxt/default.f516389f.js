@@ -1,0 +1,1 @@
+import{a as c,e,h as l,f as t,w as n,o as r,p as _}from"./entry.d8bdd580.js";const p={};function f(a,d){const o=e("v-main"),s=e("v-app");return r(),l("div",null,[t(s,null,{default:n(()=>[t(o,{class:"bg-grey-lighten-4"},{default:n(()=>[_(a.$slots,"default")]),_:3})]),_:3})])}const u=c(p,[["render",f]]);export{u as default};
